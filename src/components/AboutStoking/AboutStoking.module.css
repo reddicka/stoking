@@ -1,0 +1,7 @@
+.textBox p + p {
+    margin-top: 1.8rem;
+}
+
+.textBold {
+    font-weight: 600;
+}
